@@ -25,4 +25,4 @@ COMPONENTES UTILIZADOS
  
 LINK DO PROJETO NO TINKERCAD
 -----------------------------
-https://www.tinkercad.com/things/9DSXOzF6UZ3-sistema-de-irrigacao?sharecode=uYRglXaaO8IVV8akQTIYXiDwyi9MU5_FJTEINrgASPU
+https://www.tinkercad.com/things/ktSCPo1BAE0/editel?sharecode=XbbIT2IMQdDn0qBDe7P3SGzHs6rtdN2CvfqtvZ4vmBg
